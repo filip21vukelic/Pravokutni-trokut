@@ -1,0 +1,7 @@
+C:\Users\Ucenik\source\repos\Pravokutni trokut\Pravokutni trokut\bin\Debug\Pravokutni trokut.exe.config
+C:\Users\Ucenik\source\repos\Pravokutni trokut\Pravokutni trokut\bin\Debug\Pravokutni trokut.exe
+C:\Users\Ucenik\source\repos\Pravokutni trokut\Pravokutni trokut\bin\Debug\Pravokutni trokut.pdb
+C:\Users\Ucenik\source\repos\Pravokutni trokut\Pravokutni trokut\obj\Debug\Pravokutni trokut.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\Pravokutni trokut\Pravokutni trokut\obj\Debug\Pravokutni trokut.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\Pravokutni trokut\Pravokutni trokut\obj\Debug\Pravokutni trokut.exe
+C:\Users\Ucenik\source\repos\Pravokutni trokut\Pravokutni trokut\obj\Debug\Pravokutni trokut.pdb
